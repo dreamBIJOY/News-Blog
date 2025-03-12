@@ -1,0 +1,52 @@
+[
+  {
+    "id": 0,
+    "category": "All",
+    "icon": ".//../src/assets/image/Category Icon/select.png"
+  },
+  {
+    "id": 1,
+    "category": "Travel",
+    "icon": ".//../src/assets/image/Category Icon/world.png"
+  },
+  {
+    "id": 2,
+    "category": "Work",
+    "icon": ".//../src/assets/image/Category Icon/working.png"
+  },
+  {
+    "id": 4,
+    "category": "Health",
+    "icon": ".//../src/assets/image/Category Icon/health-insurance.png"
+  },
+  {
+    "id": 5,
+    "category": "Finance",
+    "icon": ".//../src/assets/image/Category Icon/hand.png"
+  },
+  {
+    "id": 6,
+    "category": "Technology",
+    "icon": ".//../src/assets/image/Category Icon/project-management.png"
+  },
+  {
+    "id": 7,
+    "category": "Food",
+    "icon": ".//../src/assets/image/Category Icon/cutlery.png"
+  },
+  {
+    "id": 8,
+    "category": "Real Estate",
+    "icon": ".//../src/assets/image/Category Icon/property.png"
+  },
+  {
+    "id": 9,
+    "category": "Fitness",
+    "icon": ".//../src/assets/image/Category Icon/yoga-pose.png"
+  },
+  {
+    "id": 10,
+    "category": "Education",
+    "icon": ".//../src/assets/image/Category Icon/mortarboard.png"
+  }
+]

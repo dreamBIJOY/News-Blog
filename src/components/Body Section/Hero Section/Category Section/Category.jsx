@@ -24,7 +24,7 @@ function Category({ handelCategory }) {
         {categoryName.map((category) => (
           <div className="flex items-center gap-4 mt-6 px-8 cursor-pointer">
             <img
-              onClick={() => handelCategory(category.category)}
+              onClick={() => handelCategory?(category.category)}
               className="w-[28px]"
               src={category.icon}
               alt=""
